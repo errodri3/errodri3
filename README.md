@@ -69,7 +69,7 @@
 <br clear="both">
 
 <!-- Snake animation kept from original layout -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/errodri3/errodri3/output/snake.svg" alt="Snake animation" />
 
 ###
 
