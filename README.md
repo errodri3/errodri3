@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eve</h1>
+<h3 align="center">I'm an inspiring frontend developer from Long Beach, California</h3>
 
-<!--
-**errodri3/errodri3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=errodri3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=errodri3&theme=dracula" alt="github trophy" />
+</p>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=errodri3&show_icons=true&theme=dracula" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=errodri3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://cdn.pfps.gg/pfps/5254-sleeping-cat.gif"  />
+
+###
+
+<div align="left">
+  <!-- Languages & Tools (icons taken from the second snippet) -->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30" alt="android" /></a>
+  <img width="8" />
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30" alt="blender" /></a>
+  <img width="8" />
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" alt="css3" /></a>
+  <img width="8" />
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma" /></a>
+  <img width="8" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" /></a>
+  <img width="8" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="html5" /></a>
+  <img width="8" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java" /></a>
+  <img width="8" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="javascript" /></a>
+  <img width="8" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql" /></a>
+  <img width="8" />
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs" /></a>
+  <img width="8" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="python" /></a>
+  <img width="8" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" alt="react" /></a>
+  <img width="8" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="typescript" /></a>
+  <img width="8" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwind" /></a>
+  <img width="8" />
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="30" alt="unity" /></a>
+</div>
+
+###
+
+<div align="left">
+  <!-- Social / contact badges -->
+  <img width="8" />
+  <a href="mailto:errodriguez0703@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" /></a>
+  <img width="8" />
+  <a href="https://linkedin.com/in/evelyn-rodriguez-r" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" /></a>
+</div>
+
+###
+
+<br clear="both">
+
+<!-- Snake animation kept from original layout -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">About me</h3>
+<ul align="left">
+  <li>🔭 I’m currently working on <strong>LocalGem</strong></li>
+  <li>📫 How to reach me: <strong>errodriguez0703@gmail.com</strong></li>
+  <li>⚡ Fun fact: <strong>I'm a chronic cheese addict 🧀</strong></li>
+</ul>
+
