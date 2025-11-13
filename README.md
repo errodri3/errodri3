@@ -5,10 +5,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errodri3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=errodri3&theme=dracula" alt="github trophy" />
-</p>
+<h3 align="left">About me</h3>
+<ul align="left">
+  <li>🗺️ Studying Informatics, Specialiazing Human Computer Interaction @ <strong>UC Irvine</strong></li>
+  <li>🖥️ Interested in <strong>Full-stack Web Development</strong></li>
+  <li>🔭 I’m currently working on <strong>LocalGem</strong></li>
+  <li>📫 How to reach me: <strong>errodriguez0703@gmail.com</strong></li>
+  <li>⚡ Fun fact: <strong>I'm a chronic cheese addict 🧀</strong></li>
+</ul>
 
+<h3 align="left">Experience</h3>
+<ul align="left">
+</ul>
+
+<h3 align="left">Recent Projects</h3>
+<ul align="left">
+</ul>
+
+
+<h3 align="left">Stats & Languages</h3>
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=errodri3&show_icons=true&theme=dracula" height="150" alt="github stats" />
@@ -72,11 +87,4 @@
 <img src="https://raw.githubusercontent.com/errodri3/errodri3/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<h3 align="left">About me</h3>
-<ul align="left">
-  <li>🔭 I’m currently working on <strong>LocalGem</strong></li>
-  <li>📫 How to reach me: <strong>errodriguez0703@gmail.com</strong></li>
-  <li>⚡ Fun fact: <strong>I'm a chronic cheese addict 🧀</strong></li>
-</ul>
 
