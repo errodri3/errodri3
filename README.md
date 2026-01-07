@@ -16,6 +16,8 @@
 
 <h3 align="left">Experience</h3>
 <ul align="left">
+  <li> 🧠 STEAM Instructor @ <strong>Dreams For Schools</strong> (September 2025 - Current)</li>
+  <li> 👩🏻‍💻 Graphic Design Intern @ <strong>HackAtUCI</strong> (December 2025 - Current)</li>
 </ul>
 
 <h3 align="left">Recent Projects</h3>
