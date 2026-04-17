@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Eve</h1>
-<h3 align="center">I'm an inspiring frontend developer from Long Beach, California</h3>
+<h1 align="center">Hi, I'm Eve 👋</h1>
+<h3 align="center">I'm an Inspiring Frontend Developer and UI/UX Designer from Long Beach, California</h3>
 
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errodri3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <h3 align="left">About me</h3>
+<h4> align="left">
+  I build scalable web applications with a focus on clean code and user experience.
+</h4>
 <ul align="left">
   <li>🗺️ Studying Informatics, Specialiazing Human Computer Interaction @ <strong>UC Irvine</strong></li>
   <li>🖥️ Interested in <strong>Full-stack Web Development</strong></li>
@@ -22,6 +25,10 @@
 
 <h3 align="left">Recent Projects</h3>
 <ul align="left">
+  <li><strong>Cat Discovery App</strong> - Built a React SPA that fetches live breed data from The Cat API and renders interactive breed cards, giving users full control to discover and filter content via a dynamic ban-list</li>
+  <li><strong>Brewery Data Dashboard</strong> - Designed and built a multi-filter dashboard displaying brewery data with color-coded type badges, live search, simultaneous filters, and real-time summary statistics</li>
+  <li><strong>Spotify Browser</strong> - Built a full-stack music browsing interface in Angular, consuming a Node.js/Express backend that handles OAuth 2.0 authentication and Spotify API calls</li>
+  <li><strong>Sleep Tracker Mobile App</strong> - Developed a cross-platform mobile app for logging overnight sleep and daytime sleepiness</li>
 </ul>
 
 
