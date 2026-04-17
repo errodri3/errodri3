@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errodri3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <h3 align="left">About me</h3>
-<h4> align="left">
+<h4 align="left">
   I build scalable web applications with a focus on clean code and user experience.
 </h4>
 <ul align="left">
