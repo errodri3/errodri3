@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eve 👋</h1>
-<h3 align="center">I'm an Inspiring Frontend Developer and UI/UX Designer from Long Beach, California</h3>
+<h3 align="center">I'm an Aspiring Frontend Developer and UI/UX Designer from Long Beach, California</h3>
 
 ###
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">About me</h3>
 <h4 align="left">
-  I build scalable web applications with a focus on clean code and user experience.
+  I build with a focus on clean code and user experience (and simply beautifying in any way I can).
 </h4>
 <ul align="left">
   <li>🗺️ Studying Informatics, Specialiazing Human Computer Interaction @ <strong>UC Irvine</strong></li>
@@ -19,13 +19,14 @@
 
 <h3 align="left">Experience</h3>
 <ul align="left">
-  <li> 🧠 Fellow for Computing and AI REU @ <strong>UCI with Professor Warschauer</strong> (Upcoming Summer 2026)</li>
+  <li> 🧠 AI Researcher @ <strong>UCI Digital Learning Lab</strong> (July 2026 - Current)</li>
   <li> 🧠 STEAM Instructor @ <strong>Dreams For Schools</strong> (September 2025 - Current)</li>
   <li> 👩🏻‍💻 Graphic Design Intern @ <strong>HackAtUCI</strong> (December 2025 - March 2026)</li>
 </ul>
 
 <h3 align="left">Recent Projects</h3>
 <ul align="left">
+  <li><strong>The Science Adventures of Luna & Leo</strong></li>
   <li><strong>Cat Discovery App</strong> - Built a React SPA that fetches live breed data from The Cat API and renders interactive breed cards, giving users full control to discover and filter content via a dynamic ban-list</li>
   <li><strong>Brewery Data Dashboard</strong> - Designed and built a multi-filter dashboard displaying brewery data with color-coded type badges, live search, simultaneous filters, and real-time summary statistics</li>
   <li><strong>Spotify Browser</strong> - Built a full-stack music browsing interface in Angular, consuming a Node.js/Express backend that handles OAuth 2.0 authentication and Spotify API calls</li>
