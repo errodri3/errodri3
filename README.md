@@ -11,7 +11,7 @@
 </h4>
 <ul align="left">
   <li>🗺️ Studying Informatics, Specialiazing Human Computer Interaction @ <strong>UC Irvine</strong></li>
-  <li>🖥️ Interested in <strong>Full-stack Web & App Development</strong></li>
+  <li>🖥️ Interested in <strong>UI/UX & Full-stack Web & App Development</strong></li>
   <li>🔭 I’m currently working on <strong>My Portfolio</strong></li>
   <li>📫 How to reach me: <strong>errodri3@uci.edu</strong></li>
   <li>⚡ Fun fact: <strong>I'm a chronic cheese addict 🧀</strong></li>
